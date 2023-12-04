@@ -7,15 +7,15 @@ const Groceries = () => {
   const [titleItems,setTitleItems]=useState('');
   //states for title
   const [descriptionItems,setDescriptionItems]=useState('');
-
   
-  //state items that will hold all data
+  
+  //state items that will hold all data test lang sa
   const [arrayItems,setArrayItems]=useState([]);
 
   //error state to show if the input field is empty
   const [titleErrors,setTitleErrors]=useState(''); //for title errors
   const [descriptionErrors,setDescriptionErrors]=useState('');
-  
+
   return (
     <div className="container border-text-textcolor  border-2 w-[50%]  rounded-md mx-auto p-4">
       <h1 className="text-4xl font-semibold text-textcolor text-center">
