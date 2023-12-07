@@ -1,8 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600&display=swap');
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600&display=swap');
 
+*{
+  background-color: #0C010E;
+}
 input{
     outline: none;
 }
+
+#titleID::placeholder {
+    color: black;
+  }
+  #descriptionID::placeholder {
+    color: black;
+  }

@@ -11,7 +11,7 @@ export default {
         accentcolor:"#A8F727"
       },
       fontFamily:{
-        'myFont':["montserrat",'serif']
+        'myFont':["Montserrat","sans-serif"]
       }
     },
   },
