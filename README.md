@@ -1,4 +1,4 @@
-# React + Vite
+# Daily Routine Buddy
 
 
 Understanding the basic usage/how hooks work in Reactjs. 
